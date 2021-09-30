@@ -1,4 +1,4 @@
-# for todo app
+# for todo app and pagination app
 
 ## netlify site
 
