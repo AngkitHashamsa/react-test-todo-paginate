@@ -1,0 +1,15 @@
+.container {
+  padding: 3rem;
+}
+
+.loading {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+body {
+  background: url('./background.jpg');
+}
